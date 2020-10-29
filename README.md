@@ -1,4 +1,4 @@
-# Blog published to (irishshagua.github.io)[irishshagua.github.io]
+# Blog published to [irishshagua.github.io](https://irishshagua.github.io)
 Details about my github pages site.
 
 ## Tools Used
