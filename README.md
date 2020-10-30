@@ -7,5 +7,5 @@ The blog is deployed as a github organisation page for my account. It's a static
 ## How to Update
 Adding new content is simple.
   1. Add a new markdown file to `content/post`
-  1. Test locally using `hugo server` # site will be available on http://localhost:1313
-  1. Publish when happy `./deploy.sh`
+  1. Test locally using `./blogTools.sh debug` # site will be available on http://localhost:1313
+  1. Publish when happy `./blogTools.sh deploy`
