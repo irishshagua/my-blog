@@ -19,6 +19,8 @@ title = "IrishShaGua (傻瓜) Blog"
 theme = "tranquilpeak"
 paginate = 4
 canonifyurls = true
+googleAnalytics = "G-VXD66JJQX9"
+disqusShortname = "liquidlunchblog"
 
 [permalinks]
   post = "/:year/:month/:slug/"
@@ -39,18 +41,24 @@ canonifyurls = true
 # Menu Configuration
 [[menu.main]]
   weight = 1
-  identifier = "home"
-  name = "Home"
+  identifier = "blog"
+  name = "Blog"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
   url = "/"
 [[menu.main]]
   weight = 2
+  identifier = "projects"
+  name = "Side Projects"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-cogs\"></i>"
+  url = "/hobbies"
+[[menu.main]]
+  weight = 3
   identifier = "tags"
   name = "Tags"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
   url = "/tags"
 [[menu.main]]
-  weight = 3
+  weight = 4
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
