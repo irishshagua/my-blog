@@ -1,6 +1,6 @@
 #!/bin/sh
 
-HUGO_IMG="klakegg/hugo:0.76.5"
+HUGO_IMG="klakegg/hugo:latest"
 
 # Fail Fast
 set -e

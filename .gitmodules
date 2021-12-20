@@ -1,4 +1,8 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/irishshagua/irishshagua.github.io.git
+	url = git@github.com:irishshagua/irishshagua.github.io.git
+	branch = master
+[submodule "themes/tranquilpeak"]
+	path = themes/tranquilpeak
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
 	branch = master

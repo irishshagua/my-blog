@@ -1,0 +1,17 @@
+.node text {
+  font: 12px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 2px;
+}
+
+.x-scroller{
+    overflow-x: scroll;
+    overflow-y: hidden;
+    width: 95%;
+    display: inline-block;
+    white-space: nowrap
+}
