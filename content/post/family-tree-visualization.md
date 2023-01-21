@@ -19,14 +19,14 @@ showSocial: true
 showDate: true
 summary: "Family Tree Visualized with D3 JavaScript Library"
 gallery:
-- https://res.cloudinary.com/irishshagua/image/upload/v1640000847/blog/family-history/LifeOnTheFarm_obkwz8.jpg "Life on the Farm 🚜"
-- https://res.cloudinary.com/irishshagua/image/upload/v1640000847/blog/family-history/DadHippy_drlepb.png "My Dad in his Youth 🤯"
-- https://res.cloudinary.com/irishshagua/image/upload/v1640000848/blog/family-history/SeamusMooney_ntdgzm.png "My Grandfather's Service 🪖"
-- https://res.cloudinary.com/irishshagua/image/upload/v1604005462/blog/family-history/familyHistoryCensus_cjudvr.png "Census Records 📄"
-- https://res.cloudinary.com/irishshagua/image/upload/v1640000399/blog/family-history/FamilyTreeVisualization_j3ne96.png "D3 Visualization 📊"
-- https://res.cloudinary.com/irishshagua/image/upload/v1640000847/blog/family-history/PegMooneyOnLeft_y9c3er.jpg "My Grandmother on the left 👵"
-- https://res.cloudinary.com/irishshagua/image/upload/v1640000847/blog/family-history/KoreanWar_hvosny.png "My Wife's Family Service History 🪖"
-- https://res.cloudinary.com/irishshagua/image/upload/v1640000847/blog/family-history/MartianAndKathleenAndWillieCorcoranAndBridgetteTanner_bpha7o.jpg "Old Family Snaps 🖼️"
+- https://res.cloudinary.com/irishshagua/image/upload/v1640000847/blog/family-history/LifeOnTheFarm_obkwz8.jpg Farmlife
+- https://res.cloudinary.com/irishshagua/image/upload/v1640000847/blog/family-history/DadHippy_drlepb.png Youth
+- https://res.cloudinary.com/irishshagua/image/upload/v1640000848/blog/family-history/SeamusMooney_ntdgzm.png Grandfather
+- https://res.cloudinary.com/irishshagua/image/upload/v1604005462/blog/family-history/familyHistoryCensus_cjudvr.png Census
+- https://res.cloudinary.com/irishshagua/image/upload/v1640000399/blog/family-history/FamilyTreeVisualization_j3ne96.png D3
+- https://res.cloudinary.com/irishshagua/image/upload/v1640000847/blog/family-history/PegMooneyOnLeft_y9c3er.jpg Grandmother
+- https://res.cloudinary.com/irishshagua/image/upload/v1640000847/blog/family-history/KoreanWar_hvosny.png Military
+- https://res.cloudinary.com/irishshagua/image/upload/v1640000847/blog/family-history/MartianAndKathleenAndWillieCorcoranAndBridgetteTanner_bpha7o.jpg Family
 ---
 
 I have another [blog entry]({{< ref "/content/post/family-history.md" >}}) documenting some of the tools that I've used in the past while researching/collecting data related to my Family tree. This entry will focus a little more on using the [D3.js](https://d3js.org/) library to build a nice little interactive visualization of that Tree.
