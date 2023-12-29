@@ -24,5 +24,6 @@ Below are some long-running side projects/hobbies...
 
   * [Woodwork](/projects/woodwork)
   * [Music](/projects/music)
+  * [Beer Bottle Collecting](/projects/beer-bottles)
 
 Not sure how much they'll be kept up to date but sure whatever...

@@ -1,0 +1,31 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/simple-datatables@latest/dist/style.css">
+
+<script src="https://cdn.jsdelivr.net/npm/simple-datatables@latest/dist/umd/simple-datatables.js"></script>
+
+<table id="bottleTable">
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>Brand</th>
+        <th>Style</th>
+        <th>Description</th>
+    </tr>
+    </thead>
+    <tbody>
+    {{ range .Site.Data.beer_display.bottles }}
+    <tr>
+        <td>{{ .name }}{{ if .image_url }} <img src="{{ .image_url }}" alt="{{ .name }}" style="width: 50px; height: auto;"> {{ end }}</td>
+        <td>{{ .brand }}</td>
+        <td>{{ .style }}</td>
+        <td>{{ .description }}{{ if .link }}<br/><a href="{{ .link }}" target="_blank">More Info</a>{{ end }}</td>
+    </tr>
+    {{ end }}
+    </tbody>
+</table>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const table = document.querySelector("#bottleTable");
+        new simpleDatatables.DataTable(table);
+    });
+</script>

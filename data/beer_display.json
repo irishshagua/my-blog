@@ -1,0 +1,66 @@
+{
+    "bottles": [
+        {
+            "brand": "Taedonggang Brewing Company",
+            "name": "Taedonggang",
+            "style": "Lager",
+            "description": "This was the most difficult bottle to get by far. It's from a brewery in North Korea and it needed to be shipped to Ireland via a hop in China (the only country the brewery deals with). A pretty normal tasting lager at the end of it but the historic charm is there for all to see",
+            "image_url": "https://www.rfa.org/english/news/korea/north-korea-starts-selling-popular-beer-brand-in-china-04292016155521.html/north-korea-taedonggang-beer-border-village-aug11-2011.jpg",
+            "link": "https://untappd.com/b/taedonggang-beer-brewery-taedonggang-11p/1212036"
+        },
+        {
+            "brand": "Carlsberg",
+            "name": "Fallout Beer",
+            "style": "Lager",
+            "description": "A fairly standard beer but the bottle is from a survival game that I loved as a kid. If you haven't played Fallout, you really should check it out.",
+            "image_url": "https://assets.untappd.com/photos/2023_03_12/757dc14818f5c927eccd19264417281e_raw.jpg",
+            "link": "https://untappd.com/b/carlsberg-uk-fallout-beer/1293885"
+        },
+        {
+            "brand": "Barcelona Beer Co.",
+            "name": "Miss Hops",
+            "style": "IPA",
+            "description": "Honestly can't remember where I got this beer. It's a hoppy blast. The brewery seems to have a good name",
+            "image_url": "https://assets.untappd.com/site/beer_logos/beer-1531252_bd43d_sm.jpeg"
+        },
+        {
+            "brand": "Cass",
+            "name": "Cass Fresh",
+            "style": "Lager",
+            "description": "A Korean staple beer. Probably the Bud of Korea",
+            "image_url": "https://d2t3trus7wwxyy.cloudfront.net/catalog/product/8/0/80256318-cass-fresh--lager-beer-bot330ml.png",
+            "link": "https://www.beeradvocate.com/beer/profile/874/8750/"
+        },
+        {
+            "brand": "United Breweries",
+            "name": "Kingfisher Premium",
+            "style": "Lager",
+            "description": "An Indian beer. One of them beers which is popular enough to travel cross border due to its blandness",
+            "image_url": "https://baggotstreetwines.com/media/catalog/product/5/1/51-b1yw1wgl._ac_sx425__1.jpg"
+        },
+        {
+            "brand": "Founders Brewery",
+            "name": "Centennial IPA",
+            "style": "IPA",
+            "description": "Founders are always hopped up to fuck. Very nice. But you'll regret it",
+            "image_url": "https://foundersbrewing.com/wp-content/uploads/2018/06/Centennial-Shallow-Depth_INSTAGRAM_2-1024x1024.jpg",
+            "link": "https://foundersbrewing.com/our-beer/centennial-ipa/"
+        },
+        {
+            "brand": "Molson Coors",
+            "name": "Blue Moon",
+            "style": "Wheat Beer",
+            "description": "Horrible orange tinged yoke. Not great tbh",
+            "image_url": "https://www.bluemoonbrewingcompany.com/sites/bluemoon/files/styles/beers/public/beers/2018-06/BlueMoon-BelgianWhite.png?itok=NZQsZ8D-",
+            "link": "https://www.bluemoonbrewingcompany.com/"
+        },
+        {
+            "brand": "De Halve Maan",
+            "name": "Bruge Zot",
+            "style": "Blonde",
+            "description": "A loical speciality from Bruge. Can't particularly say that the taste stands out but it was one of the easier to drink beers from Bruge.",
+            "image_url": "https://www.brugsezot.be/sites/default/files/styles/ct_beer/public/2022-05/bz_blond_33cl_glas_1.png?itok=WJG-CmOj",
+            "link": "https://www.brugsezot.be/en"
+        }
+    ]
+}
