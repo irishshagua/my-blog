@@ -58,9 +58,147 @@
             "brand": "De Halve Maan",
             "name": "Bruge Zot",
             "style": "Blonde",
-            "description": "A loical speciality from Bruge. Can't particularly say that the taste stands out but it was one of the easier to drink beers from Bruge.",
+            "description": "A local speciality from Bruge. Can't particularly say that the taste stands out but it was one of the easier to drink beers from Bruge.",
             "image_url": "https://www.brugsezot.be/sites/default/files/styles/ct_beer/public/2022-05/bz_blond_33cl_glas_1.png?itok=WJG-CmOj",
             "link": "https://www.brugsezot.be/en"
+        },
+        {
+            "brand": "Barcelona Beer Co.",
+            "name": "Cerdos Voladores",
+            "style": "IPA",
+            "description": "One of the colourful Barca Beer Co bottles. The bottles look cool. I'll give em that",
+            "image_url": "https://thehousebeer.es/img/cervezas/20160214101621-52287.jpg",
+            "link": "https://www.barcelonabeercompany.com/product-page/cerdos-voladores-session-ipa"
+        },
+        {
+            "brand": "Black Sheep Brewery",
+            "name": "Dark IPA",
+            "style": "IPA",
+            "description": "A Yorkshire beer with a good sense fun in the decoration",
+            "image_url": "https://d2lhwe7okuon6r.cloudfront.net/media/productimages/148/31/751431.png",
+            "link": "https://www.blacksheepbrewery.com/"
+        },
+        {
+            "brand": "Hop City Brewing",
+            "name": "Hopbot IPA",
+            "style": "IPA",
+            "description": "Canadian crowd. Funky bottle. IPA`liciousness",
+            "image_url": "https://assets.untappd.com/site/beer_logos_hd/beer-562059_2f219_hd.jpeg",
+            "link": "https://www.hopcity.com/"
+        },
+        {
+            "brand": "Barcelona Beer Co.",
+            "name": "Piquenbauer",
+            "style": "Wheat Beer",
+            "description": "A beer dedicated to the Shakira shagger himself. Mr Gerrard",
+            "image_url": "https://birrapedia.com/img/modulos/cerveza/de3/barcelona-beer-company-piquenbauer_14676262548128_t.jpg"
+        },
+        {
+            "brand": "Barcelona Beer Co.",
+            "name": "Nicotto",
+            "style": "IPA",
+            "description": "Japanese herb beer thingy",
+            "image_url": "https://assets.untappd.com/site/beer_logos/beer-1443166_f0198_sm.jpeg"
+        },
+        {
+            "brand": "Anchor Brewing",
+            "name": "Steam Beer",
+            "style": "Lager",
+            "description": "One of the older American breweries, unfortunately seems to be gone out of business. The beer has a nice story behind it",
+            "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2023-07/230712-Anchor-Steam-beer-ew-150p-172ea6.jpg",
+            "link": "https://www.anchorbrewing.com/our-beer/"
+        },
+        {
+            "brand": "Anchor Brewing",
+            "name": "Steam Beer",
+            "style": "Lager",
+            "description": "One of the older American breweries, unfortunately seems to be gone out of business. The beer has a nice story behind it",
+            "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2023-07/230712-Anchor-Steam-beer-ew-150p-172ea6.jpg",
+            "link": "https://www.anchorbrewing.com/our-beer/"
+        },
+        {
+            "brand": "Heineken",
+            "name": "Sagres",
+            "style": "Lager",
+            "description": "Portugese staple. Cheap and cheerful",
+            "image_url": "https://m.media-amazon.com/images/I/51K5DmCuCCL.__AC_SX342_SY445_QL70_ML2_.jpg"
+        },
+        {
+            "brand": "Kinnegar",
+            "name": "Scraggy Bay",
+            "style": "IPA",
+            "description": "The most wonderfullest beer in the World",
+            "image_url": "https://www.fairleys-wines.co.uk/image/cache/data/craft-beers/kinnegar-brewing/kinnegar-scraggy-bay-india-pale-ale-264x660.jpg",
+            "link": "https://www.kinnegarbrewing.ie/beers"
+        },
+        {
+            "brand": "Brew Dog",
+            "name": "Hardcore IPA",
+            "style": "IPA",
+            "description": "Strong one. Whoosh",
+            "image_url": "https://products3.imgix.drizly.com/ci-brew-dog-hardcore-ipa-10f7e249bd8fb53f.jpeg",
+            "link": "https://www.brewdog.com/uk/hardcore-ipa-single-can"
+        },
+        {
+            "brand": "Heineken",
+            "name": "Kronenberg 1664",
+            "style": "Lager",
+            "description": "Cool blue bottle",
+            "image_url": "https://i0.wp.com/thesportingbrews.com/wp-content/uploads/2018/04/kronenbourg-1664-blanc.jpg",
+            "link": "https://www.1664blanc.com/en"
+        },
+        {
+            "brand": "12th Abbey",
+            "name": "Altered Amber",
+            "style": "Ale",
+            "description": "Another brewrey which is closed AFAIK.",
+            "image_url": "https://assets.untappd.com/photo/2016_09_16/6392050cb389326bff92912383b8512a_raw.jpeg",
+            "link": "https://untappd.com/w/12th-abbey-brewing/162662"
+        },
+        {
+            "brand": "Galway Hooker",
+            "name": "Irish Dark Lager",
+            "style": "Lager",
+            "description": "Galway Hooker always have plenty of beers around. I think they own a few pubs in Dublin as well",
+            "image_url": "https://pintplease.s3.eu-west-1.amazonaws.com/beer/profile/irish_dark_lager_186886-48461253.jpeg",
+            "link": "https://galwayhooker.ie/"
+        },
+        {
+            "brand": "Rye River",
+            "name": "Retro IPA",
+            "style": "IPA",
+            "description": "Rye River down the road. Good beers to be fair",
+            "image_url": "https://www.amstein.ch/Htdocs/Images/IF_Bottle_700/128476.jpg",
+            "link": "https://ryeriverbrewingco.com/"
+        },
+        {
+            "brand": "Thornbridge Brewery",
+            "name": "Jaipur",
+            "style": "IPA",
+            "description": "Puts the Indian in IPA",
+            "image_url": "https://thornbridgebrewery.co.uk/cdn/shop/products/Jaipur_bottle_x_3.jpg",
+            "link": "https://thornbridgebrewery.co.uk/collections/jaipur"
+        },
+        {
+            "brand": "Grafters",
+            "name": "Pale Ale",
+            "style": "IPA",
+            "description": "One of them made-to-order beers that Aldi/Lidl were selling. Think it was done by Rye River",
+            "image_url": "https://greenhouse.ie/wp-content/uploads/2020/04/grafters2.jpg"
+        },
+        {
+            "brand": "Hope Seeker",
+            "name": "Deep Sea Double IPA",
+            "style": "IPA",
+            "description": "Think it's again a beer to order type thing",
+            "image_url": "https://blogger.googleusercontent.com/img/a/AVvXsEhSZRKa-AsG_c0kI0wActJo5T-pEFf8FRIQtEXS0P_PZ-DYj_Njj8erji5D5BHyH7bKtFiJz6AfPky6e9aEVwjoHn-aj3lH2ibr1BELw037SQtsR1LZT3Ra2aq0QqUkKe-Z3gcHBCP1VuKimdtltFIWsitE8_ciXD3Ww1oIakTUbquHyAZ32hA=w138-h200"
+        },
+        {
+            "brand": "Baltika Brewery",
+            "name": "Russian Hoppy Lager",
+            "style": "Lager",
+            "description": "No idea where this came from. Name just seemed cool",
+            "image_url": "https://pintplease.s3.eu-west-1.amazonaws.com/beer/profile/baltika_russian_hoppy_lager48_121623-1.jpg"
         }
     ]
 }
