@@ -109,14 +109,6 @@
             "link": "https://www.anchorbrewing.com/our-beer/"
         },
         {
-            "brand": "Anchor Brewing",
-            "name": "Steam Beer",
-            "style": "Lager",
-            "description": "One of the older American breweries, unfortunately seems to be gone out of business. The beer has a nice story behind it",
-            "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2023-07/230712-Anchor-Steam-beer-ew-150p-172ea6.jpg",
-            "link": "https://www.anchorbrewing.com/our-beer/"
-        },
-        {
             "brand": "Heineken",
             "name": "Sagres",
             "style": "Lager",
@@ -199,6 +191,114 @@
             "style": "Lager",
             "description": "No idea where this came from. Name just seemed cool",
             "image_url": "https://pintplease.s3.eu-west-1.amazonaws.com/beer/profile/baltika_russian_hoppy_lager48_121623-1.jpg"
+        },
+        {
+            "brand": "Vedett",
+            "name": "Extra White",
+            "style": "Ale",
+            "description": "Belgian thing. Not too strong though. A light pale ale",
+            "image_url": "https://vedett-wp.imgix.net/sites/7338/2020/07/vedett-bottle_white.png",
+            "link": "https://www.vedett.com/beers/white/"
+        },
+        {
+            "brand": "Sierra Nevada",
+            "name": "Narwhal Imperial Stout",
+            "style": "Stout",
+            "description": "Not usually a fan of the Imperial Stouts. They tend to be too strong. At 10%+, this was did not change my opinion.",
+            "image_url": "https://webadmin.sierranevada.com/wp-content/uploads/2022/11/High-Alt-Asset-Kit-Style-Guide_assetkit-mock5-narwhal-e1678811685591.png",
+            "link": "https://sierranevada.com/brews/narwhal"
+        },
+        {
+            "brand": "Sierra Nevada",
+            "name": "Celebration IPA",
+            "style": "IPA",
+            "description": "A fruity festive one",
+            "image_url": "https://webadmin.sierranevada.com/wp-content/uploads/2022/11/Cel_CanRender.png",
+            "link": "https://sierranevada.com/brews/celebration-ipa"
+        },
+        {
+            "brand": "Patagonia Brewery",
+            "name": "Santa Punch IPA",
+            "style": "IPA",
+            "description": "Argentinian brewery. Certainly don't see many frm them around Ireland. Nice fun bottle design",
+            "image_url": "https://d1onh8pwvkaf3n.cloudfront.net/beer_thumbnails/1583758653-santa-punch-ipa.jpeg",
+            "link": "https://www.cervezapatagonia.com.ar/"
+        },
+        {
+            "brand": "Blacks Brewery",
+            "name": "Kinsale Pale Ale",
+            "style": "IPA",
+            "description": "Lovely one from a brewery in a lovely part of the country. Nothing special about the bottle but a great beer",
+            "image_url": "https://www.blacksbrewery.com/wp-content/uploads/2020/09/test-3.png",
+            "link": "https://www.blacksbrewery.com/beer/kpa-kinsale-pale-ale-2/"
+        },
+        {
+            "brand": "Mahou",
+            "name": "Maestra Double Lupulo",
+            "style": "Pilsner",
+            "description": "One of the Spanish San Miguel family. Pretty strong coming in a 7+%",
+            "image_url": "https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/202110/06/00118602800726____2__600x600.jpg"
+        },
+        {
+            "brand": "Eichbaum",
+            "name": "Ureich Premium Pils",
+            "style": "Pilsner",
+            "description": "I think I got this in Aldi or Spar or something. It's another of them really tasty German pils that come in at a ridiculously good price point",
+            "image_url": "https://www.eichbaum.de/images/Produkte/Produkte%20Ureich.jpg",
+            "link": "https://www.eichbaum.de/"
+        },
+        {
+            "brand": "Photos Photiades Breweries",
+            "name": "Leon Beer",
+            "style": "Pilsner",
+            "description": "From Cyprus. It was originally the first beer brewed in Cyprus and is still produced using the original recipe",
+            "image_url": "https://www.aspris.co.uk/wp-content/uploads/2021/07/2196BBDA-D014-45A6-BEE2-931B6C48842B.jpeg",
+            "link": "https://photiadesgroup.com/portfolio/leon/"
+        },
+        {
+            "brand": "8 Degrees Brewing",
+            "name": "Mandarina Bavaria",
+            "style": "IPA",
+            "description": "Irish one. Brewed to a German hop recipe. Strong one at nearly 6%",
+            "image_url": "https://www.eightdegrees.ie/wordpress/wp-content/uploads/2020/12/Eight-Degrees-Brewing-Mandarina-Bavaria-IPA-PNG-TRANSPARENT-BG.png",
+            "link": "https://www.eightdegrees.ie/product/mandarina-bavaria-ipa-24x330ml/"
+        },
+        {
+            "brand": "Flensburger Brauerei",
+            "name": "Flensburger Pils",
+            "style": "Pilsner",
+            "description": "Another of them German breweries with some serious international shipping contracts. Seems to be readily available in most off-licences",
+            "image_url": "https://www.mchughs.ie/image/cache/catalog/products/Beers/Flensburger_Pilsner_500ml-1000x1000.jpg",
+            "link": "https://en.wikipedia.org/wiki/Flensburger_Brauerei"
+        },
+        {
+            "brand": "Smithwicks",
+            "name": "Blonde - Brew Master Edition",
+            "style": "Ale",
+            "description": "A brief release from Smithwicks when trying to mount the Craft bandwagon. Not sure it's still available",
+            "image_url": "https://www.worldwidewines.ie/images/P/IMG_20150628_172717.jpg"
+        },
+        {
+            "brand": "Mountain Man Brewing",
+            "name": "Hairy Goat",
+            "style": "IPA",
+            "description": "Another Irish one. From Cork if memory serves",
+            "image_url": "https://i0.wp.com/www.wilsononwine.ie/wp-content/uploads/2015/08/DSCF6041-e1440255269889.jpg"
+        },
+        {
+            "brand": "Bru Brewery",
+            "name": "Bru Lager",
+            "style": "Lager",
+            "description": "Fairly plain bottle but the brewery always had a good story behind it",
+            "image_url": "https://order.classicdrinks.com/media/catalog/product/cache/62d2258b37c8e3278a1b37c898b8c1e5/b/r/br412.jpg"
+        },
+        {
+            "brand": "St Austell Brewery",
+            "name": "Proper Job",
+            "style": "IPA",
+            "description": "Cornish IPA. Was readily available in Tesco for a while",
+            "image_url": "https://thecornishcompany.com/cdn/shop/products/cornish-company-065.jpg",
+            "link": "https://staustellbrewery.co.uk/our-beers/proper-job/"
         }
     ]
 }
