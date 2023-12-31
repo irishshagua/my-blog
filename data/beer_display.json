@@ -299,6 +299,108 @@
             "description": "Cornish IPA. Was readily available in Tesco for a while",
             "image_url": "https://thecornishcompany.com/cdn/shop/products/cornish-company-065.jpg",
             "link": "https://staustellbrewery.co.uk/our-beers/proper-job/"
+        },
+        {
+            "brand": "Erdinger",
+            "name": "Weissbrau - Kristall",
+            "style": "Wheat Beer",
+            "description": "One of them available everywhere German beers",
+            "image_url": "https://int.erdinger.de/bundles/erdingerwebsite/assets/int/kristall/img/s2-produkt-sm-2022.png",
+            "link": "https://int.erdinger.de/beer/kristall.html"
+        },
+        {
+            "brand": "St. Mels",
+            "name": "Pale Ale",
+            "style": "Ale",
+            "description": "Small brewery from Longford",
+            "image_url": "https://www.firesteakhouse.ie/wp-content/uploads/2017/04/pale-ale-300x300.jpg",
+            "link": "https://www.stmelsbrewing.com/about-st-mels"
+        },
+        {
+            "brand": "Bru Brewery",
+            "name": "Bru Rua",
+            "style": "Ale",
+            "description": "Not usually a fan of reds but have to support the locals",
+            "image_url": "https://cdn.diffords.com/contrib/bws/2017/10/59db9dc321310.jpg",
+            "link": "https://www.brubrewery.ie/our-brewery"
+        },
+        {
+            "brand": "Solas",
+            "name": "Irish Red Ale",
+            "style": "Ale",
+            "description": "Another one of them made to order deals for Aldi or Lidl",
+            "image_url": "https://digitalcontent.api.tesco.com/v2/media/ghs/cd0277f7-bdf8-4138-bf41-3b4d1767dc42/74c2ca77-e5e8-47f8-be41-53a985ff14cb_2122033519.jpeg",
+            "link": "https://ryeriverbrewingco.com/beer/red-ale/"
+        },
+        {
+            "brand": "Galway Bay",
+            "name": "Of Foam And Fury",
+            "style": "IPA",
+            "description": "Galway Bay have good beers but the doubles kill me. This was 8%",
+            "image_url": "https://res.cloudinary.com/ratebeer/image/upload/w_250,c_limit/beer_237467.jpg",
+            "link": "https://galwaybaybrewery.com/offoamandfury/"
+        },
+        {
+            "brand": "Celtic Brew",
+            "name": "Finians Premium Lager",
+            "style": "Lager",
+            "description": "Another very small local brewery",
+            "image_url": "https://www.kbsinstitute.org/images/pullo/IMGP7239.jpg"
+        },
+        {
+            "brand": "Brehon Brewhouse",
+            "name": "Stony Grey",
+            "style": "IPA",
+            "description": "Monaghan based farm brewer",
+            "image_url": "https://pintplease.s3.eu-west-1.amazonaws.com/post/original/post_5729488-159612672.jpeg",
+            "link": "https://brehonbrewhouse.ie/product/stony-grey-india-pale-ale-can-24/"
+        },
+        {
+            "brand": "Fentimans",
+            "name": "Hollows & Fentimans Ginger Beer",
+            "style": "Ginger Beer",
+            "description": "UK based brewer. You can get this stuff in tons of places. Interesting that you mix it with some bitters before drinking",
+            "image_url": "https://molloys.ie/cdn/shop/products/gingerbeerhollows_325x.jpg",
+            "link": "https://www.fentimans.com/"
+        },
+        {
+            "brand": "Guinness",
+            "name": "West Indies Porter",
+            "style": "Stout",
+            "description": "Guinness relaunched this as an attempt to compete in the craft market. A hopped up recipe for over-seas travel",
+            "image_url": "https://noblegreen-production.s3-eu-west-2.amazonaws.com/spree/images/9002/large/GU0UZZBK-1.jpg",
+            "link": "https://www.guinness.com/en/beers/guinness-west-indies-porter"
+        },
+        {
+            "brand": "Rye River",
+            "name": "McGargles - Cousin Rosies",
+            "style": "IPA",
+            "description": "A local beer that has been pushed hard internationally",
+            "image_url": "https://www.beverfood.com/wp-content/uploads/2019/01/mc-gargles-rosie-s_pale.jpg"
+        },
+        {
+            "brand": "Guinness",
+            "name": "Foreign Extra",
+            "style": "Stout",
+            "description": "Another of the Guinness alternatives. Basically a rebrand of the West Indies Porter",
+            "image_url": "https://martinsofflicence.ie/cdn/shop/products/360x510_p1395956314490_untitle_d_94bb878e-6453-44c9-ac85-3a1dfd439f36_240x.jpg",
+            "link": "https://www.guinness.com/en-ie/beers/guinness-foreign-extra-stout"
+        },
+        {
+            "brand": "Victory",
+            "name": "Hop Devil",
+            "style": "IPA",
+            "description": "American brewery, from Philly apparently. Not really sure how I ended up with the bottle tbh",
+            "image_url": "https://dydza6t6xitx6.cloudfront.net/ci-victory-hopdevil-ipa-3277769da70f6668.png",
+            "link": "https://victorybeer.com/beers/hopdevil/"
+        },
+        {
+            "brand": "Lexington brewing",
+            "name": "Kentucky IPA",
+            "style": "IPA",
+            "description": "American brewery from... you guess it... Kentucky.",
+            "image_url": "https://www.neodif.eu/7/KENTUCKY-IPA.jpg",
+            "link": "https://lexingtonbrewingco.com/beer"
         }
     ]
 }
