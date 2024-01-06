@@ -24,6 +24,22 @@
             "image_url": "https://assets.untappd.com/site/beer_logos/beer-1531252_bd43d_sm.jpeg"
         },
         {
+            "brand": "Brian & Stephen",
+            "name": "Oldtown Christmas Ale",
+            "style": "Ale",
+            "description": "This was a beer that I got to brew in Guinness' micro-brewery after winning a homebrew contest. Actually got distributed to a few pubs. Was great craic",
+            "image_url": "https://res.cloudinary.com/irishshagua/image/upload/v1704539198/blog/side-projects/u48myewytljj8aj7xc9o.jpg",
+            "link": "https://www.nationalhomebrewclub.ie/wordpress/2015/09/smithwicks-homebrew-challenge/"
+        },
+        {
+            "brand": "Kinnegar",
+            "name": "Scraggy Bay",
+            "style": "IPA",
+            "description": "The most wonderfullest beer in the World",
+            "image_url": "https://www.fairleys-wines.co.uk/image/cache/data/craft-beers/kinnegar-brewing/kinnegar-scraggy-bay-india-pale-ale-264x660.jpg",
+            "link": "https://www.kinnegarbrewing.ie/beers"
+        },
+        {
             "brand": "Cass",
             "name": "Cass Fresh",
             "style": "Lager",
@@ -114,14 +130,6 @@
             "style": "Lager",
             "description": "Portugese staple. Cheap and cheerful",
             "image_url": "https://m.media-amazon.com/images/I/51K5DmCuCCL.__AC_SX342_SY445_QL70_ML2_.jpg"
-        },
-        {
-            "brand": "Kinnegar",
-            "name": "Scraggy Bay",
-            "style": "IPA",
-            "description": "The most wonderfullest beer in the World",
-            "image_url": "https://www.fairleys-wines.co.uk/image/cache/data/craft-beers/kinnegar-brewing/kinnegar-scraggy-bay-india-pale-ale-264x660.jpg",
-            "link": "https://www.kinnegarbrewing.ie/beers"
         },
         {
             "brand": "Brew Dog",
@@ -401,6 +409,204 @@
             "description": "American brewery from... you guess it... Kentucky.",
             "image_url": "https://www.neodif.eu/7/KENTUCKY-IPA.jpg",
             "link": "https://lexingtonbrewingco.com/beer"
+        },
+        {
+            "brand": "Beerlao",
+            "name": "Lager Beer",
+            "style": "Lager",
+            "description": "From Laos. Surprisingly common as I don't know anything else about Laos",
+            "image_url": "https://www.totalwine.com/dynamic/490x/media/sys_master/twmmedia/h2e/h24/14160548495390.png",
+            "link": "https://www.beerlao.la/"
+        },
+        {
+            "brand": "Chimay",
+            "name": "Peres Trappistes Blond",
+            "style": "Blonde",
+            "description": "Belgian monk brew. Not super strong for a Belgian. Fairly common as well",
+            "image_url": "https://nutsaboutwine.ie/wp-content/uploads/2020/11/chimay-gold-blonde.jpg",
+            "link": "https://chimay.com/en/discover/"
+        },
+        {
+            "brand": "Lagunitas",
+            "name": "Hop Stoopid",
+            "style": "IPA",
+            "description": "Lagunitas have tons of beers. They're all usually high quality and always have good graphics",
+            "image_url": "https://kansasfoodmarket.com/cdn/shop/products/ci-lagunitas-hop-stoopid-f3be279d7a9aaae2_580x.png",
+            "link": "https://www.change.org/p/lagunitas-brewing-co-save-lagunitas-hop-stoopid"
+        },
+        {
+            "brand": "Lagunitas",
+            "name": "Little Sumpin Sumpin",
+            "style": "IPA",
+            "description": "Was very popular on the Dublin tech meetup scene for a while",
+            "image_url": "https://www.liquor.com/thmb/BByfFp2SIMTxYd9nrN-EfiDAF_E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/lagunitas_little-sumpin_main_720x720-9984734e779c4a8cb55864b69364b471.jpg",
+            "link": "https://lagunitas.com/beer/a-little-sumpin-sumpin/"
+        },
+        {
+            "brand": "Klassiek",
+            "name": "Lager Beer",
+            "style": "Lager",
+            "description": "Think this was an aldi job. No idea who brews it",
+            "image_url": "https://assets.untappd.com/photos/2020_01_09/b4c5d976d7c16fa04daa6cd4f15f8839_640x640.jpg"
+        },
+        {
+            "brand": "Lagunitas",
+            "name": "Indian Pale Ale",
+            "style": "IPA",
+            "description": "This one is so popular it's actually available on tap in a good few places in Dublin. Lovely beer",
+            "image_url": "https://cdn.webshopapp.com/shops/310202/files/427689312/650x750x2/lagunitas-ipa-355cl.jpg",
+            "link": "https://lagunitas.com/beer/ipa/"
+        },
+        {
+            "brand": "Hope",
+            "name": "Handsome Jack",
+            "style": "IPA",
+            "description": "Savage artwork on this bottle",
+            "image_url": "https://spoted.imgix.net/images/0ef0a06d04b6972146d101d7f9bdc7ec.jpg",
+            "link": "https://hopebeer.ie/portfolio-item/handsome-jack-ipa/"
+        },
+        {
+            "brand": "The White Hag",
+            "name": "Irish Wit Beer",
+            "style": "Wheat Beer",
+            "description": "Sligo brewery. Think they have the rights for the craft beer in Dublin airport T1. Decent beers to be fair",
+            "image_url": "https://www.celticwhiskeyshop.com/image/data/Beer/White-Hag-Wit.jpg",
+            "link": "https://www.thewhitehag.com/product/fionnabhair-x-24-irish-wit-beer-330ml/"
+        },
+        {
+            "brand": "Lapin Kulta",
+            "name": "Beer",
+            "style": "Lager",
+            "description": "A beer from Finland. The Lapin part means Lapland apparently.",
+            "image_url": "https://produits.bienmanger.com/5841-0w600h600_Lapin_Kulta_Beer_Finland.jpg",
+            "link": "https://en.wikipedia.org/wiki/Lapin_Kulta"
+        },
+        {
+            "brand": "Rolling Rock",
+            "name": "Beer",
+            "style": "Lager",
+            "description": "Standard American Beer",
+            "image_url": "https://static.wikia.nocookie.net/avgn/images/b/b3/Beer.png",
+            "link": "https://en.wikipedia.org/wiki/Rolling_Rock"
+        },
+        {
+            "brand": "To Ol",
+            "name": "First Frontier",
+            "style": "IPA",
+            "description": "Danish brewery. Not sure if the Ol in the name is similar to the Irish ol and means drink or not",
+            "image_url": "https://s2.wine.style/images_gen/534/53459/0_0_prod_desktop.webp"
+        },
+        {
+            "brand": "Oranjeboom",
+            "name": "Premium Lager",
+            "style": "Lager",
+            "description": "Dutch brewery. Been around a while apparently. Think they're fairly common",
+            "image_url": "https://www.uniteddutchbreweries.com/wp-content/uploads/2017/08/ob-package-landing.png",
+            "link": "https://www.oranjeboom1671.com/oranjeboom-beers-premium-lager/"
+        },
+        {
+            "brand": "Omission Brewing",
+            "name": "Handcrafted Lager",
+            "style": "Lager",
+            "description": "Some American brand. Not sure exactly were they're from",
+            "image_url": "https://www.totalwine.com/dynamic/x1000,6pk/media/sys_master/twmmedia/h0c/h54/8799592644638.png",
+            "link": "https://www.drinkomission.com/"
+        },
+        {
+            "brand": "Westmalle",
+            "name": "Trappist",
+            "style": "Dubbel",
+            "description": "Rocket fuel",
+            "image_url": "https://nutsaboutwine.ie/wp-content/uploads/2020/11/westmalle-dubbel.jpeg",
+            "link": "https://www.trappistwestmalle.be/en/trappist-beer/"
+        },
+        {
+            "brand": "Odell Brewing",
+            "name": "India Pale Ale",
+            "style": "IPA",
+            "description": "Another Murican brand. Nice graphics on the beer",
+            "image_url": "https://bevmo.com/cdn/shop/products/6fcc364c-9c1d-46e6-9825-ad403cd071e6.png",
+            "link": "https://www.odellbrewing.com/beer/ipa/"
+        },
+        {
+            "brand": "Asahi",
+            "name": "Asahi Dry",
+            "style": "Lager",
+            "description": "Japanese beer. Goes great with Sushi.",
+            "image_url": "https://www.asahigroup-holdings.com/img/brand/img_superdry_en.png",
+            "link": "https://www.asahisuperdry.com/en-gb/home/"
+        },
+        {
+            "brand": "Caledonian Brewing Company",
+            "name": "Caledonian 80",
+            "style": "Ale",
+            "description": "Scottish beer",
+            "image_url": "https://cdn.diffords.com/contrib/bws/2017/10/59db9b032ffd9.jpg"
+        },
+        {
+            "brand": "Hilden brewing Co",
+            "name": "Titanic Quarter Beer",
+            "style": "Ale",
+            "description": "Belfast Beer",
+            "image_url": "https://cdn.beeradvocate.com/im/beers/54503.jpg"
+        },
+        {
+            "brand": "Pearse Lyons Brewery",
+            "name": "Foxes Rock",
+            "style": "IPA",
+            "description": "American style IPA from Dundalk",
+            "image_url": "https://shop.pearselyonsdistillery.com/cdn/shop/files/AmericanStyleIPA.png"
+        },
+        {
+            "brand": "Boyne Brewhouse",
+            "name": "Pagans Pillar",
+            "style": "IPA",
+            "description": "Brewed with water from the river Boyne... maybe",
+            "image_url": "https://1.bp.blogspot.com/-sDDgQb_3Omw/Vyj6JkokIQI/AAAAAAAAKRU/O-ZqjGBtxmQ5L2y176zpCONi_dn4x4OmQCLcB/s1600/boyne_brewhouse_pagans_pillar.jpg"
+        },
+        {
+            "brand": "Knockout brewing",
+            "name": "Middleweight IPA",
+            "style": "IPA",
+            "description": "Punchy Craft Beer... great tag line",
+            "image_url": "https://assets.untappd.com/photos/2020_03_28/e8409b3ca04825a899fd8a9aaa77af74_640x640.jpg"
+        },
+        {
+            "brand": "James Brown Brews",
+            "name": "Rhubarb Tart IPA",
+            "style": "IPA",
+            "description": "Love the tart.... Not so sure about the beer",
+            "image_url": "https://i2.wp.com/www.wilsononwine.ie/wp-content/uploads/2016/01/DSCF6221-e1452272978969.jpg"
+        },
+        {
+            "brand": "Kaiserdom",
+            "name": "Pilsener",
+            "style": "Pilsener",
+            "description": "German beer. Prob an Aldi job",
+            "image_url": "https://d2td6mzj4f4e1e.cloudfront.net/wp-content/uploads/sites/8/2011/08/03/tesco-takes-on-kaiserdom-beers/Kaiserdom-pils.jpg",
+            "link": "https://kaiserdom.de/en/"
+        },
+        {
+            "brand": "Wicklow Wolf",
+            "name": "American Amber",
+            "style": "Ale",
+            "description": "Wicklow Worlf are from Wicklow.... Shock Horror. They actually grow their own hops though",
+            "image_url": "https://pintplease.s3.eu-west-1.amazonaws.com/beer/profile/wicklow_wolf_american_amber_31766-1.jpg",
+            "link": "https://wicklowwolf.com/beer/american-amber/"
+        },
+        {
+            "brand": "Whitewater",
+            "name": "Clough More - Heather IPA",
+            "style": "IPA",
+            "description": "Brewed in Count Down",
+            "image_url": "https://pintplease.s3.eu-west-1.amazonaws.com/beer/profile/heather_ipa_10560-48715236.jpeg"
+        },
+        {
+            "brand": "Budejovicke Pivo",
+            "name": "1795",
+            "style": "Lager",
+            "description": "Original Czech blend",
+            "image_url": "https://samson.cz/uploads/piva/nova/1795-neoros.png"
         }
     ]
 }
